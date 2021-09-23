@@ -3,3 +3,14 @@ body {background-color: LightGrey;}
 #nav-table { width: 800px; }
 
 #nav-td {width: 200px; text-align:center;}
+
+#boxing-pic {
+                float: left;
+                width: 200px;
+                margin-right: 10px; 
+            }
+#bjj-pic {
+                float: right;
+                width: 200px;
+                margin-left: 10px; 
+            }
